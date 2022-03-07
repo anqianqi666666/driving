@@ -10,4 +10,5 @@ elif country == '英國':
      	print('可以考駕照')
      else:
      	print('No!')
-		
+else:
+	print('只能輸入China 和 UK')
