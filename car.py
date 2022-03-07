@@ -5,3 +5,9 @@ if country == '中國':
 		print('可以考駕照')
 	else:
 		print('no!')
+elif country == '英國':
+     if age >= 17:
+     	print('可以考駕照')
+     else:
+     	print('No!')
+		
